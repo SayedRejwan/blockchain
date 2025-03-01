@@ -1,0 +1,2 @@
+class ZKSnarks:
+    pass

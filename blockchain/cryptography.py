@@ -1,0 +1,1 @@
+from pqcrypto.sign.falcon import generate_keypair

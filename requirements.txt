@@ -1,0 +1,7 @@
+flask
+fastapi
+web3
+pqcrypto
+ecdsa
+numpy
+requests
